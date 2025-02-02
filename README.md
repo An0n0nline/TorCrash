@@ -19,6 +19,8 @@ Potential Uses:
 
 - Educational Purposes: Demonstrates the basics of shell scripting and network manipulation.
 
+- Security Testing: When implimented via largescale botnet, it can be used to testing against alternative forms of self-adjusting DDOS attacks.
+
 Warning:
 
 This script is for educational and ethical hacking purposes only. Unauthorized use of this script to attack or disrupt systems is illegal and unethical. Use it responsibly and only on systems you own or have explicit permission to test.
